@@ -1,6 +1,5 @@
 # TimeFlies
-Track the time spent on Facebook with TimeFlies, a simple Chrome extension.
-![TimeFlies-removebg-preview (1)](https://github.com/saadmansakib47/TimeFlies/assets/134169023/db41f2b8-82cc-4500-a7b0-4663f2910201)
+Track the time spent on Facebook with TimeFlies, a simple Chrome extension.![TimeFlies-removebg-preview (1)](https://github.com/saadmansakib47/TimeFlies/assets/134169023/db41f2b8-82cc-4500-a7b0-4663f2910201)
 
 ## Features
 
