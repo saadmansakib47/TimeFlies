@@ -4,21 +4,42 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TimeFlies Timer</title>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Roboto', 'Oswald', sans-serif;
+            background: linear-gradient(to right, #536976, #292e49);
+            color: #fff;
             text-align: center;
             margin: 20px;
         }
+        #container {
+            background-color: rgba(0, 0, 0, 0.8); /* Dark background for better contrast */
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            max-width: 300px;
+            margin: auto;
+        }
+        h1 {
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 20px;
+            color: #007bff;
+        }
         #timer {
-            font-size: 24px;
-            font-weight: bold;
+            font-size: 36px;
+            font-weight: 700;
+            color: #ffcc00;
+            margin-bottom: 20px;
         }
     </style>
 </head>
 <body>
-<h1>TimeFlies Timer</h1>
-<div id="timer">00:00:00</div>
+<div id="container">
+    <h1>TimeFlies Timer</h1>
+    <div id="timer">00:00:00</div>
+</div>
 <script src="timer.js"></script>
 </body>
 </html>

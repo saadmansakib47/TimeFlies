@@ -6,13 +6,15 @@
   "permissions": [
     "activeTab",
     "storage",
-    "tabs"
+    "tabs",
+    "notifications"
   ],
   "background": {
     "service_worker": "background.js"
   },
   "action": {
-    "default_popup": "timer.html"
+    "default_popup": "timer.html",
+    "default_popup_width": 320
   },
   "content_security_policy": {
     "extension_pages": "script-src 'self'; object-src 'self'"

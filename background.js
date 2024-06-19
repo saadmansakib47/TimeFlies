@@ -12,7 +12,7 @@ chrome.tabs.onActivated.addListener((activeInfo) => {
     });
 });
 
-chrome.tabs.onRemoved.addListener((tabId, removeInfo) => {
+chrome.tabs.onRemoved.addListener((tabId) => {
     if (tabId === activeTabId) {
         stopTimer();
     }
@@ -28,9 +28,12 @@ function startTimer(tabId) {
 }
 
 function stopTimer() {
-    clearInterval(timerInterval);
-    saveState(); // Save timer state when stopping
-    activeTabId = null;
+    if (timerInterval) {
+        clearInterval(timerInterval);
+        timerInterval = null;
+        saveState(); // Save timer state when stopping
+        activeTabId = null;
+    }
 }
 
 function updateTimer() {
