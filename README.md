@@ -33,6 +33,11 @@ Track the time spent on Facebook with TimeFlies, a simple Chrome extension.![Tim
 ![s2](https://github.com/saadmansakib47/TimeFlies/assets/134169023/854762ad-c078-4469-8dea-d4d4db69bfd3)
 
 
+![s3](https://github.com/saadmansakib47/TimeFlies/assets/134169023/9f101e4d-49fc-4384-9be1-94120d326a4e)
+
+
+
+
 ## Contribution
 Contributions are welcome! Please follow these guidelines:
 
