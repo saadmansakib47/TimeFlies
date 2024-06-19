@@ -6,7 +6,7 @@ Track the time spent on Facebook with TimeFlies, a simple Chrome extension.
 - Automatically tracks time spent on Facebook when the tab is active.
 - Displays a timer in the extension popup.
 
-## How to install
+## Installation
 
 ### Chrome Web Store (Coming Soon)
 
