@@ -1,4 +1,4 @@
-# TimeFlies Chrome Extension
+# TimeFlies
 Track the time spent on Facebook with TimeFlies, a simple Chrome extension.
 
 ## Features
