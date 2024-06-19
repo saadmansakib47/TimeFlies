@@ -27,13 +27,16 @@ Usage
 
 ## How to use
 1.Click on the TimeFlies icon in the Chrome toolbar to view the timer.
+
 2.The timer automatically starts when a Facebook tab is active.
 
 ## Contribution
 Contributions are welcome! Please follow these guidelines:
 
 1.Fork the repository and create a new branch.
+
 2.Make your changes, test thoroughly.
+
 3.Submit a pull request with a clear description of your changes.
 
 
