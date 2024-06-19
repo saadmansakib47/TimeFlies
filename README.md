@@ -21,7 +21,8 @@ Track the time spent on Facebook with TimeFlies, a simple Chrome extension.![Tim
 2. Open Chrome and go to chrome://extensions/.
 
 3. Enable Developer mode (toggle switch in the top right corner).
-   ![image](https://github.com/saadmansakib47/TimeFlies/assets/134169023/57f40bee-7339-47ea-83e6-96a2496bdb96)
+![s4](https://github.com/saadmansakib47/TimeFlies/assets/134169023/db755ded-105f-451b-8e34-ca580de08f64)
+
 
 
 5. Click on "Load unpacked" and select the cloned timeflies-extension directory.
