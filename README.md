@@ -27,6 +27,8 @@ Track the time spent on Facebook with TimeFlies, a simple Chrome extension.![Tim
 ## Usage
 1. Click on the TimeFlies icon in the Chrome toolbar to view the timer.
 
+![s1](https://github.com/saadmansakib47/TimeFlies/assets/134169023/078600cc-8114-4025-8921-3e984f673b5a)
+
 2. The timer automatically starts when a Facebook tab is active.
 
 ## Contribution
